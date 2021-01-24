@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Template drive forms
+### app built to learn template drive forms.
 
 How to use the downloaded files
 

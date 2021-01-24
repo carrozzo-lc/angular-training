@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Pipes
+### app built to learn how to transforming data using pipes.
 
 How to use the downloaded files
 

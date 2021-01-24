@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Routing
+### app built to learn Routing in Angular.
 
 How to use the downloaded files
 

@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Services
+### app built to learn how to manage data across components in Angular.
 
 How to use the downloaded files
 

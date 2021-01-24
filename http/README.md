@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Http request app
+### app built to learn how to do http requests with Angular.
 
 How to use the downloaded files
 

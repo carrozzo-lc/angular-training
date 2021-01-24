@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Observable App
+### app built to learn how to handle a variety of common asynchronous operations.
 
 How to use the downloaded files
 

@@ -1,5 +1,5 @@
-# Angular App
-### app built to learn Angular Directives.
+# Reactive form
+### Angular app built to learn Reactive forms.
 
 How to use the downloaded files
 
