@@ -1,0 +1,8 @@
+.recipe-edit button {
+    margin-right:5px;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched{
+    border: solid 1px red;
+}
