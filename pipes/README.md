@@ -1,5 +1,5 @@
 # Pipes
-### app built to learn how to transforming data using pipes.
+### app built to learn how to transform data using pipes.
 
 How to use the downloaded files
 
