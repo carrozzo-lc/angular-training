@@ -1,5 +1,5 @@
 # Template drive forms
-### app built to learn template drive forms.
+### app built to learn template driven forms in Angular.
 
 How to use the downloaded files
 
