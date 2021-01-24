@@ -13,10 +13,10 @@ Concepts learned:
 - How to use TypeScript to write Angular applications;
 - All about directives and components, including the creation of custom directives/ components;
 - How databinding works;
-- All about routing and handling navigation;
+- Routing and handling navigation;
 - What Pipes are and how to use them;
 - How to access the Web (e.g. RESTful servers);
 - What dependency injection is and how to use it;
 - How to use Modules in Angular;
-- How to optimize your (bigger) Angular Application;
-- An introduction to NgRx and complex state management;
+- How to optimize (bigger) Angular Application;
+- NgRx and complex state management;
